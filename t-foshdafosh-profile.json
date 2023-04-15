@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-15T15:54:34Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:foshdafosh"
+    },
+    {
+      "Claim": "t:foshdafosh"
+    },
+    {
+      "Claim": "yt:@foshdafosh"
+    },
+    {
+      "Claim": "mdon:@foshdafosh@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "24e17fae29c91de9fb8e2a22",
+    "Timestamp": "2023-04-15T16:05:41Z",
+    "Signature": "61f1bbe669c63cc54cff163e95606fb1029b528a0d7501a6bb298835ffe615363a35d48413262f76902dee3dada5820172a1e494f4b23e363ffd9ff1fb33e7a6cdf606531a3db624dfc9c20a95f66d9e1fa793b2559ab4cfb90eee68ce6d9edc80b7e7db41a41b15f3237af6a51afd72a1c9245c927d4a71e290ae4a6a54ac3d718e6bde9009dec99247ddba2bf8b209347dbafaadb4b78ac69d541863d09c61117f5b0599a814c2ade4d870a18997d0d2ea4f8ccb25c076c7a135efb3260d273764b40fe4e432626e28e20b01342ef29642079bfde417e9b15b9ff7262fb625469bbe4f3427b04d8d8018f12ece900e9a08ef7020f13ed739421856cde34f20"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "27596a486ef873242f5ad481ee3c3f54764381c576c9b09f030203dd6221a45d",
+  "ContentToHash": "v1|gh:foshdafosh,mdon:@foshdafosh@mastodon.social,med:no-account,post:no-account,spout:no-account,t:foshdafosh,yt:@foshdafosh|2023-04-15T15:54:34Z"
+}
